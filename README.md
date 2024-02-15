@@ -1,2 +1,7 @@
-For the latest COVID-19 statistics in South Africa, including deaths, new cases, vaccinations, death by population. Please refer to the project to check my insight analysis of COVID-19
-impact in South Africa
+-For the latest COVID-19 statistics in South Africa, including deaths, new cases, vaccinations, death by population.
+-Applied SQL expertise for in-depth analysis  of Covid-19 data
+-Extracted crictical information: infection rates, mortality, and recovery trends.
+-Formulated complex SQL queries for detailed statistical reports.
+-Contributed significantly to understanding pandemic impact.
+-Provided actionable insights supporting effective planning.
+-Aided decision-making with comprehensive data analysis
